@@ -157,7 +157,7 @@
           <mxGeometry x="170" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pRQaN9hgmaS8UtY3yoiB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="525" width="300" height="120" as="geometry" />
+          <mxGeometry x="800" y="190" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pRQaN9hgmaS8UtY3yoiB-2" value="文章标签表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="525" width="60" height="30" as="geometry" />
