@@ -150,8 +150,8 @@
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-83" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;员工分享数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SDvYkNFNqdcA3qqq5Amp-84" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;员工分享数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="60" height="20" as="geometry" />
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-84" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;文章id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
