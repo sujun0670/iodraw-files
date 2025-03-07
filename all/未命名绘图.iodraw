@@ -208,7 +208,7 @@
           <mxGeometry x="550" y="640" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pRQaN9hgmaS8UtY3yoiB-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="570" width="300" height="120" as="geometry" />
+          <mxGeometry x="440" y="720" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pRQaN9hgmaS8UtY3yoiB-36" value="用户访问表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="620" width="60" height="30" as="geometry" />
