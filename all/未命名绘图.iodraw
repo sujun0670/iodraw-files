@@ -49,6 +49,12 @@
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-34" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;文件夹分类名称&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;文章摘要&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-37" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;文章摘要&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
