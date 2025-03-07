@@ -174,7 +174,7 @@
         <mxCell id="pRQaN9hgmaS8UtY3yoiB-7" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;企业微信用户ID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="730" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pRQaN9hgmaS8UtY3yoiB-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;用户所在部门&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pRQaN9hgmaS8UtY3yoiB-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户id&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="730" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
