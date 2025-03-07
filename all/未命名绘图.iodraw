@@ -34,8 +34,8 @@
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-21" value="文章类型(原创/转载微信/转载任意链接)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SDvYkNFNqdcA3qqq5Amp-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-22" value="文章内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
