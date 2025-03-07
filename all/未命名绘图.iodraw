@@ -124,6 +124,11 @@
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-72" value="员工信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="430" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SDvYkNFNqdcA3qqq5Amp-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-73" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;主键&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="60" height="20" as="geometry" />
         </mxCell>
@@ -137,10 +142,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-77" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;企业微信用户ID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="485" width="60" height="20" as="geometry" />
+          <mxGeometry x="240" y="520" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-78" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;用户所在部门&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="60" height="20" as="geometry" />
+          <mxGeometry x="160" y="520" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
