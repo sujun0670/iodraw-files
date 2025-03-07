@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="L4LX9EPslw2ihTspH5zD">
-    <mxGraphModel dx="2547" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;主键&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SDvYkNFNqdcA3qqq5Amp-20" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:1697pt&quot; width=&quot;2263&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:14.4pt;width:385pt&quot; width=&quot;514&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:222pt&quot; width=&quot;296&quot; class=&quot;xl65&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:113pt&quot; width=&quot;150&quot; class=&quot;xl65&quot;&gt;文章内容&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:68pt&quot; width=&quot;91&quot; class=&quot;xl65&quot;&gt;文章标题&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:313pt&quot; width=&quot;418&quot; class=&quot;xl65&quot;&gt;封面图片&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:107pt&quot; width=&quot;142&quot; class=&quot;xl65&quot;&gt;文章摘要&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:131pt&quot; width=&quot;174&quot; class=&quot;xl65&quot;&gt;分享文案&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:101pt&quot; width=&quot;134&quot; class=&quot;xl65&quot;&gt;打标签规则&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:52pt&quot; width=&quot;70&quot; class=&quot;xl65&quot;&gt;所属文件夹&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:89pt&quot; width=&quot;118&quot; class=&quot;xl65&quot;&gt;可见权限&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:64pt&quot; width=&quot;86&quot; class=&quot;xl65&quot;&gt;员工二维码&lt;/td&gt;&lt;br/&gt;  &lt;td style=&quot;width:52pt&quot; width=&quot;70&quot; class=&quot;xl65&quot;&gt;发布状态&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-21" value="文章类型(原创/转载微信/转载任意链接)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
