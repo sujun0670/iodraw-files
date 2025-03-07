@@ -28,14 +28,14 @@
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-17" value="文章主表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDvYkNFNqdcA3qqq5Amp-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;角色id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1804" y="290" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;主键&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-21" value="文章类型(原创/转载微信/转载任意链接)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDvYkNFNqdcA3qqq5Amp-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
