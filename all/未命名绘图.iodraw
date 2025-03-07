@@ -23,7 +23,7 @@
           <mxGeometry x="40" y="200" width="430" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;文章摘要&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="380" width="60" height="20" as="geometry" />
+          <mxGeometry x="60" y="350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-17" value="文章主表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="60" height="30" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="230" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;分享文案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="60" height="20" as="geometry" />
+          <mxGeometry x="140" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDvYkNFNqdcA3qqq5Amp-37" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;打标签规则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="60" height="20" as="geometry" />
+          <mxGeometry x="230" y="360" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
